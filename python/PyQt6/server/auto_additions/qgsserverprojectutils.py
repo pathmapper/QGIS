@@ -23,6 +23,7 @@ try:
     QgsServerProjectUtils.wmsInfoFormatSia2045 = staticmethod(QgsServerProjectUtils.wmsInfoFormatSia2045)
     QgsServerProjectUtils.wmsFeatureInfoAddWktGeometry = staticmethod(QgsServerProjectUtils.wmsFeatureInfoAddWktGeometry)
     QgsServerProjectUtils.wmsFeatureInfoUseAttributeFormSettings = staticmethod(QgsServerProjectUtils.wmsFeatureInfoUseAttributeFormSettings)
+    QgsServerProjectUtils.wmsHTMLFeatureInfoUseMaptipOnly = staticmethod(QgsServerProjectUtils.wmsHTMLFeatureInfoUseMaptipOnly)
     QgsServerProjectUtils.wmsFeatureInfoSegmentizeWktGeometry = staticmethod(QgsServerProjectUtils.wmsFeatureInfoSegmentizeWktGeometry)
     QgsServerProjectUtils.wmsAddLegendGroupsLegendGraphic = staticmethod(QgsServerProjectUtils.wmsAddLegendGroupsLegendGraphic)
     QgsServerProjectUtils.wmsSkipNameForGroup = staticmethod(QgsServerProjectUtils.wmsSkipNameForGroup)
